@@ -1,0 +1,6 @@
+flask
+requests
+undetected-chromedriver
+selenium
+pyvirtualdisplay
+gunicorn
